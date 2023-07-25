@@ -1,0 +1,5 @@
+package com.SpringBootTuts.SpringBootJpaTuts.repo;
+
+public interface AlienRepo {
+
+}

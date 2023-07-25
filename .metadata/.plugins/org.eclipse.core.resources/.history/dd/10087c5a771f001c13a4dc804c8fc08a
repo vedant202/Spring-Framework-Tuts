@@ -1,0 +1,5 @@
+package com.SpringBootTuts.SpringBootJpaTuts.model;
+
+public class Alien {
+
+}

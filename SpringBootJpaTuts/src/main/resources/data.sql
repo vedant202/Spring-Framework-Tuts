@@ -1,0 +1,12 @@
+insert into alien values (101,'Vedant','Java');
+insert into alien values (102,'Aryan','html');
+insert into alien values (103,'Deep','html');
+insert into alien values (104,'pranav','C');
+insert into alien values (105,'prathamesh','C++');
+insert into alien values (106,'Harry','Python');
+insert into alien values (107,'Tim','G0');
+insert into alien values (108,'Rahul','C#');
+insert into alien values (109,'prashant','html');
+insert into alien values (110,'vedant1','Python');
+insert into alien values (112,'john','Java');
+insert into alien values (113,'Roman','Java');
